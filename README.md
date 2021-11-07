@@ -18,9 +18,13 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/d4rkm3z)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kirillsadovnikov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/d4rkm3z)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/d4rkm3z)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4764467)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sadovnikov.dev)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkm3z&show_icons=true&theme=tokyonight&layout=compact)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=d4rkm3z&show_icons=true&count_private=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkm3z&show_icons=true&layout=compact&langs_count=10) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=d4rkm3z&show_icons=true&count_private=true)
+
+<!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=d4rkm3z)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=d4rkm3z)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=d4rkm3z) 
+ -->
 
 
 
