@@ -16,10 +16,16 @@
 
 - 🔭 I’m currently working on this page. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/d4rkm3z)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kirillsadovnikov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/d4rkm3z)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/d4rkm3z)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4764467)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sadovnikov.dev)  
+- 🖐 Connect with me: 
 
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/kirillsadovnikov/)
+[<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'>](https://t.me/d4rkm3z)
+[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>](https://twitter.com/d4rkm3z)
+[<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'>](https://www.facebook.com/d4rkm3z)
+[<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'>](https://stackoverflow.com/users/4764467)
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](https://www.instagram.com/cyril.sadovnikov/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkm3z&show_icons=true&layout=compact&langs_count=10) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=d4rkm3z&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkm3z&show_icons=true&layout=compact&langs_count=10) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=d4rkm3z&show_icons=true&count_private=true&hide_rank=true&line_height=28)
 
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=d4rkm3z)  
