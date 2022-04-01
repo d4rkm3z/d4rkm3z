@@ -9,10 +9,13 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&color=2bbc8a&logo=JavaScript)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&color=2bbc8a&logo=TypeScript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=2bbc8a&logo=React)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&color=2bbc8a&logo=Angular)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=2bbc8a&logo=node.js)
 ![](https://img.shields.io/badge/Code-Deno-informational?style=flat&color=2bbc8a&logo=Deno)
+
 ![](https://img.shields.io/badge/Code-Jest-informational?style=flat&color=8fce00&logo=Jest)
 ![](https://img.shields.io/badge/Code-Cypress-informational?style=flat&color=8fce00&logo=Cypress)
+
 ![](https://img.shields.io/badge/Database-Mysql-informational?style=flat&color=ce7e00&logo=MySQL)
 
 ![](https://img.shields.io/badge/Tools-Shell-informational?style=flat&color=b4a7d6&logo=gnu-bash)
