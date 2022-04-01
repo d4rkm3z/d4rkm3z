@@ -18,11 +18,10 @@
 
 ![](https://img.shields.io/badge/Database-Mysql-informational?style=flat&color=ce7e00&logo=MySQL)
 
-![](https://img.shields.io/badge/Tools-Shell-informational?style=flat&color=b4a7d6&logo=gnu-bash)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&color=b4a7d6&logo=Yarn)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&color=b4a7d6&logo=Npm)
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&color=e06666&logo=Docker)
+![](https://img.shields.io/badge/Tools-Shell-informational?style=flat&color=b4a7d6&logo=gnu-bash)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&color=b4a7d6&logo=Docker)
 
 - 🔭 I’m currently working on this page. 
 
